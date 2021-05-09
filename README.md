@@ -13,3 +13,5 @@ Jeszcze wiecej rzeczy do dodania
 - dodatkowa lista
 - developer
 - tester
+
+Trzeba to sprawdzic
