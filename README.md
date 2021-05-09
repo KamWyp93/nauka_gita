@@ -25,3 +25,6 @@ Zrobmy jeszcze wiecej zmian
 dodatkowe listy
 
 wiecej commitow
+
+Koty sa fajne ale psy tez sa spoko
+![IMAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlksy1Sj0GfBTD8N1CCyDQhJ4-P74XI0DIw&usqp=CAU)
