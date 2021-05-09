@@ -33,3 +33,7 @@ Koty sa fajne ale psy tez sa spoko
 1. moze przydaloby sie wiecej zwierzat
 2. jeszcze wiecej cwiczen
 3. dobra wystarczy
+
+Modyfikacja zdalna bezposrednio ze strony gita.
+Napiszemy cos wiecej zeby bylo wyraznie widac.
+GITHUB wchodzi powoli coraz lepiej.
