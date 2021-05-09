@@ -7,3 +7,9 @@ Nauka GIT-a
 ## GIT jest fajny... chyba
 
 Dodatkowe wskazwki do wykonania
+
+Jeszcze wiecej rzeczy do dodania
+
+- dodatkowa lista
+- developer
+- tester
