@@ -40,3 +40,5 @@ GITHUB wchodzi powoli coraz lepiej.
 
 Sprawdzmy to jeszcze raz dla pewnosci.
 dodatkowe zmiany na github.
+
+## dodatkowy naglowek do sprawdzenia komendy pull w terminalu
