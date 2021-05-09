@@ -37,3 +37,6 @@ Koty sa fajne ale psy tez sa spoko
 Modyfikacja zdalna bezposrednio ze strony gita.
 Napiszemy cos wiecej zeby bylo wyraznie widac.
 GITHUB wchodzi powoli coraz lepiej.
+
+Sprawdzmy to jeszcze raz dla pewnosci.
+dodatkowe zmiany na github.
